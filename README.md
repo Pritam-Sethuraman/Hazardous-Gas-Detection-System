@@ -15,7 +15,7 @@
 ## Description
 
 ### Overall Block Diagram
-![Overall Block Diagram](https://user-images.githubusercontent.com/78743757/159210255-329fe969-0c21-4b6f-89de-1e27d0f48c50.png)
+![Overall Block Diagram](https://user-images.githubusercontent.com/78743757/159210564-6dd7dac1-4e2d-4a24-8f43-6b5c05477132.png)
 
 ### Hardware Architecture Diagram
 ![Hardware Architecture Diagram](https://user-images.githubusercontent.com/78743757/159210302-6adfd5cf-594d-45c5-9fc6-57d53138afd6.png)
